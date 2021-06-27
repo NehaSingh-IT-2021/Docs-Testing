@@ -5,7 +5,8 @@
 
 Welcome to Coding new things's documentation!
 =============================================
-Hello World
+Hello World !!!!!! 
+This is me Amazing
 
 .. toctree::
    :maxdepth: 2
